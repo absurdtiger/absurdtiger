@@ -9,7 +9,7 @@ This is just the chaotic place where I try to figure out how to make computers l
 
 Gitstats
 ---
-[![doesthislookprettyyet](https://github-readme-stats.vercel.app/api?username=absurdtiger&count_private=true&theme=gruvbox&border_radius=15&custom_title=my%20terrible%20stats&show_icons=true)](https://github.com/absurdtiger/github-readme-stats)
+[![doesthislookprettyyet](https://github-readme-stats.vercel.app/api?username=absurdtiger&count_private=true&theme=gruvbox&border_radius=15&custom_title=A%20for%20effort&show_icons=true)](https://github.com/absurdtiger/github-readme-stats)
 
 
 
