@@ -1,4 +1,7 @@
 # jodietheteo
 this is content 
-that hopefully gets displayed 
-isn't it fun to do stuff while not know if your stuff will work out the way you want it to 
+
+notion is great it taught me how to use github 😔
+
+---
+profile image source: https://dribbble.com/shots/4069705-Low-Poly-Tiger
