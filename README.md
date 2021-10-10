@@ -11,7 +11,7 @@ Gitstats
 ---
 [![doesthislookprettyyet](https://github-readme-stats.vercel.app/api?username=absurdtiger&count_private=true&theme=gruvbox&border_radius=15&custom_title=A%20for%20effort&show_icons=true)](https://github.com/absurdtiger/github-readme-stats)
 
-
+yes I definitely deserve A* thank u very much anuraghazra 
 
 ---
 profile image source: https://dribbble.com/shots/4069705-Low-Poly-Tiger
