@@ -7,6 +7,8 @@ This is just the chaotic place where I try to figure out how to make computers l
 
 the mose useful thing I've done is [this set of writeups](https://github.com/absurdtiger/Sieberrsec-CTF-3.0)
 
+oh would you look at that I've also made [this set of writeups](https://github.com/absurdtiger/Whitehacks-2022)
+
 ## Gitstats
 
 [![doesthislookprettyyet](https://github-readme-stats.vercel.app/api?username=absurdtiger&count_private=true&theme=gruvbox&border_radius=15&custom_title=A%20for%20effort&show_icons=true)](https://github.com/absurdtiger/github-readme-stats)
